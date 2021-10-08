@@ -1,6 +1,6 @@
 # Object Tracking using Kalman Filter
 Tracking and analysis of a moving object on a 2-Dimenional space (video) using Kalman filter Algorithm.
-## 1. Intorduction
+## 1. Introduction
 Object tracking is a complex field that has witnessed a significant development in the last decades. It is a branch of computer vision implemented in vast number of practical applications such as surveillance, navigation of a robot, human-to-computer interaction, etc. Its main goal is to automate any given operation and to reduce human effort by replacing working humans with computers to process and analyze digital images or videos to gather (or use “collect”) desired information. 
 
 
